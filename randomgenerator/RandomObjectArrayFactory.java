@@ -1,10 +1,10 @@
 package application.randomgenerator;
 
 import java.util.Random;
-import javaUtility.string.*;
-import javaUtility.datetime.*;
-import javaUtility.math.*;
-import javaUtility.array.*;
+import string.*;
+import datetime.*;
+import math.*;
+import array.*;
 
 public class RandomObjectArrayFactory {
     private final Random m_random;

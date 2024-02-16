@@ -2,9 +2,10 @@ package application.randomgenerator;
 
 import java.util.Random;
 
-import javaUtility.datetime.*;
-import javaUtility.math.*;
-import javaUtility.array.*;
+import datetime.Date;
+import math.Fraction;
+import math.Point;
+import array.ArrayUtil;
 import java.util.Scanner;
 
 public class RandomObjectArrayGeneratorApp {

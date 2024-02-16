@@ -1,6 +1,6 @@
 package application.lotto;
 
-import javaUtility.number.NumberUtil;
+import number.NumberUtil;
 import java.util.Random;
 
 public class Lotto {
